@@ -1,0 +1,7 @@
+{
+    "application": "Jani Banking System",
+    "version": "2.0",
+    "currency": "INR",
+    "account_type": "Savings",
+    "active": true
+}
