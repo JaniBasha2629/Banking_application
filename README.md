@@ -1,4 +1,4 @@
-# Banking Application
+# Jani Banking Application
 
 This project demonstrates a simple banking application.
 
